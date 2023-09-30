@@ -8,15 +8,15 @@
 /* Estilo do Corpo da Página */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #ffffff;
     margin: 0;
     padding: 0;
 }
 
 /* Estilo do Cabeçalho */
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #000000;
+    color: #ffffff;
     padding: 20px;
     text-align: center;
 }
@@ -42,8 +42,8 @@ nav a {
 
 /* Estilo dos Produtos */
 .produto {
-    background-color: #000000;
-    border: 1px solid #ccc;
+    background-color: #2d3bff;
+    border: 1px solid #ffffff;
     padding: 20px;
     margin: 20px;
     text-align: center;
@@ -64,8 +64,8 @@ nav a {
 }
 
 .produto button {
-    background-color: #333;
-    color: #fff;
+    background-color: #ff0000;
+    color: #000000;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
@@ -73,7 +73,7 @@ nav a {
 }
 
 .produto button:hover {
-    background-color: #555;
+    background-color: #f8f8fcea;
 }
 
 /* Estilo do Rodapé */
@@ -86,10 +86,11 @@ footer {
 
 /* Estilo da seção de Contato */
 section {
-    background-color: #0000003f;
-    border: 1px solid #000000;
+    background-color: #fcfcfc;
+    border: 1px solid #ff0000;
     padding: 20px;
     margin: 20px;
+    text-align: justify;
 }
 
 section h2 {
